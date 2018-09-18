@@ -15,5 +15,5 @@ class Dog
    
    lassie.name = "Lassie"
    
-   lassie.name
+   puts lassie.name
    
