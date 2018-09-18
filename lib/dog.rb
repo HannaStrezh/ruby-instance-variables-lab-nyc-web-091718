@@ -10,6 +10,6 @@ class Dog
   #this method for reading the name 
   #GETTING
  end 
- lassie = Dog.new 
- lassie.name = "Lassie"
- lassie.name
+   lassie = Dog.new 
+   lassie.name = "Lassie"
+   lassie.name
