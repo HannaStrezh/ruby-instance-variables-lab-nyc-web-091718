@@ -1,6 +1,6 @@
 class Dog 
   def name = (dog_name) 
-    this_dog_name = dog_name 
+    this_dogs_name = dog_name 
   end 
   #takes an argument ans sets it equal to this_dog_name
   #SETTING
@@ -10,6 +10,7 @@ class Dog
   #this method for reading the name 
   #GETTING
  end 
+ 
    lassie = Dog.new 
    lassie.name = "Lassie"
    lassie.name
